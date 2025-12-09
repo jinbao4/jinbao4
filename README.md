@@ -1,3 +1,3 @@
 <samp> 
 
-# stranger (/ˈstreɪn(d)ʒə/) 
+## stranger (/ˈstreɪn(d)ʒə/) 
