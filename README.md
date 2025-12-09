@@ -6,4 +6,6 @@ hello chat. i am just your average junior full stack developer. i've been coding
 
 [website](jinbao4.xyz) - [github](github.com/jinbao4) - [email me](mailto:jinbao4@duck.com)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+
 ### ![](https://komarev.com/ghpvc/?username=jinbao4&abbreviated=true&style=for-the-badge)
