@@ -1,3 +1,3 @@
 <samp> 
 
-hello chat.
+# stranger (/ˈstreɪn(d)ʒə/) 
