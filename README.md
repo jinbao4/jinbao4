@@ -6,6 +6,5 @@ hello chat. i am just your average junior full stack developer. i've been coding
 
 [website](jinbao4.xyz) - [github](github.com/jinbao4) - [email me](mailto:jinbao4@duck.com)
 
-<samp> 
-  
-## ![](https://komarev.com/ghpvc/?username=jinbao4&abbreviated=true&style=for-the-badge)
+
+### ![](https://komarev.com/ghpvc/?username=jinbao4&abbreviated=true&style=for-the-badge)
