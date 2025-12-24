@@ -4,7 +4,7 @@
 
 hello chat. i am just your average junior full stack developer. i've been coding for around 6 or 7 years, i try to code with everything that shines under the sun. 
 
-[website](jinbao4.xyz) - [github](github.com/jinbao4) - [email me](mailto:jinbao4@duck.com)
+[website](https://www.jinbao4.xyz/) - [github](https://www.github.com/jinbao4) - [email me](mailto:jinbao4@duck.com)
 
 
 ### ![](https://komarev.com/ghpvc/?username=jinbao4&abbreviated=true&style=for-the-badge)
